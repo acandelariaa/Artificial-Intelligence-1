@@ -5,7 +5,7 @@ This repository contains projects, assignments, and examples related to Artifici
 
 ---
 
-## Course Modules
+##  Modules
 
 | Module | Content |
 |--------|---------|
