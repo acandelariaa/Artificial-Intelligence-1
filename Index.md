@@ -7,13 +7,13 @@ This repository contains projects, assignments, and examples related to Artifici
 
 ## Course Modules
 
-| Module | Topic | Content |
-|--------|-------|--------|
-| **1** | Introduction to AI | [Go to Module 1](module1.md) |
-| **2** | Data Preprocessing | [Go to Module 2](module2.md) |
-| **3** | Machine Learning Basics | [Go to Module 3](module3.md) |
-| **4** | Model Evaluation | [Go to Module 4](module4.md) |
-| **5** | Final Project | [Go to Module 5](module5.md) |
+| Module | Content |
+|--------|---------|
+|Introduction to AI | [Go to Module 1](module1.md) |
+|Data Preprocessing | [Go to Module 2](module2.md) |
+|Machine Learning Basics | [Go to Module 3](module3.md) |
+|Model Evaluation | [Go to Module 4](module4.md) |
+|Final Project | [Go to Module 5](module5.md) |
 
 ---
 
