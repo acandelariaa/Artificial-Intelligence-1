@@ -9,11 +9,7 @@ This repository contains projects, assignments, and examples related to Artifici
 
 | Module | Content |
 |--------|---------|
-|Introduction to AI | [Go to Module 1](module1.md) |
-|Data Preprocessing | [Go to Module 2](module2.md) |
-|Machine Learning Basics | [Go to Module 3](module3.md) |
-|Model Evaluation | [Go to Module 4](module4.md) |
-|Final Project | [Go to Module 5](module5.md) |
+|Aprendizaje Estadistico Automatico | [Go to Module 1](module1.md) |
 
 ---
 
