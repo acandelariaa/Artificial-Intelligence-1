@@ -7,7 +7,7 @@ This repository contains projects, assignments, and examples related to Artifici
 
 | Module | Content |
 |--------|---------|
-|Auto-Statistical learning | [Go to Module 1](module1.md) |
+|Auto-Statistical learning | [Go to Module 1](assets/module1) |
 
 ---
 ## 📂 Repository structure
