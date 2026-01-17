@@ -9,14 +9,10 @@ All of this with the objective of understanding the nature of the dataset, reach
 
 # Procedure
 
-Data Exploring
-[Obesity Dataset](/assets/module1/Data_Exploring.md)
+[Data Exploring](/assets/module1/Data_Exploring.md)
 
-Study Design
-[Obesity Dataset](./assets/module1/A1_1_Obesidad.csv)
+[Studio Design](./assets/module1/A1_1_Obesidad.csv)
 
-Output Variable
-[Obesity Dataset](./assets/module1/A1_1_Obesidad.csv)
+[Output Variable](./assets/module1/A1_1_Obesidad.csv)
 
-Grafic Analysis (focused on a sub-population) / conclusion
-[Obesity Dataset](./assets/module1/A1_1_Obesidad.csv)
+[Grafic Analysis / conclusion](./assets/module1/A1_1_Obesidad.csv)
