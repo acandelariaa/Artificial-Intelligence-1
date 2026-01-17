@@ -13,6 +13,13 @@ This repository contains projects, assignments, and examples related to Artifici
 ## 📂 Repository structure
 
 ```text
-/ (root)
+(root)
 index.md     → Home page
 module1.md   → Intro to AI (Auto-Statistical Learning)
+```
+<p align="center">
+  <small>
+    By <strong>Ángel Candelaria</strong><br>
+    Artificial Intelligence 1
+  </small>
+</p>
