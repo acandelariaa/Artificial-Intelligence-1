@@ -5,5 +5,18 @@ For this particular case, we will be using a dataset of obesity data which conta
 Dataset
 [Obesity Dataset](./assets/module1/A1_1_Obesidad.csv)
 
-All of this with the objective of understanding of the nature of the dataset, and reach statistical inferences (understanding the behavior of the dataset).
+All of this with the objective of understanding the nature of the dataset, reach statistical inferences (understanding the behavior of the dataset), and explore opportunity areas.
 
+# Procedure
+
+Data Exploring
+[Obesity Dataset](./assets/module1/A1_1_Obesidad.csv)
+
+Study Design
+[Obesity Dataset](./assets/module1/A1_1_Obesidad.csv)
+
+Output Variable
+[Obesity Dataset](./assets/module1/A1_1_Obesidad.csv)
+
+Grafic Analysis (focused on a sub-population) / conclusion
+[Obesity Dataset](./assets/module1/A1_1_Obesidad.csv)
