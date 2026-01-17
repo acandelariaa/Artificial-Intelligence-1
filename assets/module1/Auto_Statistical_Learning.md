@@ -3,7 +3,7 @@ Due to the potential of AI use in data proccesing, in this module we're going to
 For this particular case, we will be using a dataset of obesity data which contains variables such as, water consume, height, weight, age, and others.
 
 Dataset
-[Obesity Dataset](./assets/module1/A1_1_Obesidad.csv)
+[Obesity Dataset](assets/module1/A1_1_Obesidad.csv)
 
 All of this with the objective of understanding the nature of the dataset, reach statistical inferences (understanding the behavior of the dataset), and explore opportunity areas.
 
