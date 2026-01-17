@@ -10,7 +10,7 @@ All of this with the objective of understanding the nature of the dataset, reach
 # Procedure
 
 Data Exploring
-[Obesity Dataset](./assets/module1/A1_1_Obesidad.csv)
+[Obesity Dataset](/assets/module1/Data_Exploring.md)
 
 Study Design
 [Obesity Dataset](./assets/module1/A1_1_Obesidad.csv)
