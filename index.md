@@ -1,4 +1,4 @@
-# Artificial Intelligence 1
+# Homepage
 
 Welcome!  
 This repository contains projects, assignments, and examples related to Artificial Intelligence applied to data processing.
