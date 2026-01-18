@@ -24,6 +24,5 @@ Now, if we talk about obesity levels, we can put our attention to that variable 
 
 According to the graph, obesity levels appear to be fairly well distributed across its different categories, with type 1 obesity being the most common between the data.
 
-Now, instinctively, there must be a tendency of obesity according to genre, let's explore the distribution based on genre to see if males or females tend to be in a specific category of obesity.
-
-
+Now, instinctively, there must be a tendency of obesity according to genre, let's explore the distribution based on genre to see if males or females tend to be in a specific category of obesity, let's see if the previous are on the right way.
+![Obesity genre]()
