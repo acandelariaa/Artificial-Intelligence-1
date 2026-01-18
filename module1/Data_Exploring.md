@@ -14,8 +14,9 @@ Lets load the data set and see how many information we have
 ![Data Loading](/module1/assets/Data_head.png)
 
 The data set appears to have 2111 rows and 10 colums size, wich is a good size for a dataset, now let's see what kind of variables we're going to be working with
+
 ### Variables and types of information
-![Data type](/assets/module1/resources/Data_type.png)
+![Data type](/module1/assets/Data_type.png)
 
 As we appreciate, we have two types of variables, "float64" and "Object", variables which for technical purposes we're going to express as quantitative (numbers) and qualitative (categories) respectively.
 
