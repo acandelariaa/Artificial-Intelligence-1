@@ -27,7 +27,7 @@ Other variables also seem to be very subjective, such as *"ComeVegetales"* and *
 
 Now, if we talk about obesity levels, we can put our attention to that variable which seems to be categoric, just to see how many people with different levels of obesity, we're going to plot the data to see the distribution. 
 
-![Obesity distribution](/assets/module1/resources/Obesity_levels_categories.png)
+![Obesity distribution](/module1/assets/Obesity_levels_categories.png)
 
 According to the graph, obesity levels appear to be fairly well distributed across its different categories, with type 1 obesity being the most common between the data.
 
