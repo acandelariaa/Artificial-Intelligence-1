@@ -33,6 +33,6 @@ According to the graph, obesity levels appear to be fairly well distributed acro
 
 Now, instinctively, there must be a tendency of obesity according to genre, let's explore the distribution based on genre to see if males or females tend to be in a specific category of obesity, let's see if the previous are on the right way.
 
-![Obesity genre](/assets/module1/resources/Obesity_type_genre.png)
+![Obesity genre](/module1/assets/Obesity_type_genre.png)
 
 Looking closely at the plot, we can see a striking pattern in severe obesity levels: Type II is dominated by males, while Type III is almost exclusively female. In contrast, the other weight categories show a much more balanced distribution between sexes.
