@@ -20,5 +20,6 @@ Just by looking at it, the dataset seems quite general and basic, nothing very s
 Other variables also seem to be very subjective, such as *"ComeVegetales"* and *"ConsumoDeAgua"*, because the dataset does not specify if the numbers contained in both variables have a measure unit, therefore seems correct to treat them as a relative consume, but it would be really helpful if it specifies the numbers as weekly frequency, liters, gallons or any other unit.
 
 Now, if we talk about obesity levels, we can put our attention to that variable which seems to be categoric, just to see how many people with different levels of obesity, we're going to plot the data to see the distribution. 
+![Obesity distribution](/assets/module1/resources/Obesity_levels_categories.png)
 
-
+According to the graph, obesity levels appear to be fairly well distributed across its different categories, with type 1 obesity being the most common between the data.
