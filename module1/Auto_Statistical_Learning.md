@@ -9,7 +9,7 @@ All of this with the objective of understanding the nature of the dataset, reach
 
 # Procedure
 
-[Data Exploring](/assets/module1/Data_Exploring.md)
+[Data Exploring](/module1/Data_Exploring.md)
 
 [Studio Design](./assets/module1/A1_1_Obesidad.csv)
 
