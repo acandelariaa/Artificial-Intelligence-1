@@ -18,3 +18,7 @@ As we appreciate, we have two types of variables, "float64" and "Object", variab
 Just by looking at it, the dataset seems quite general and basic, nothing very specific; after all, we only have ten variables to work with. Furthermore, some variables seem to be subjective rather than specific, variables like *"ComeMuchasCalorias"*. Considering the human factor, we would need to establish a range of how many calories are considered a lot and how many are considered less. Regardless, we must also consider the fact that the average person in Colombia, Mexico, and Peru is not able to answer a specific range of calories; therefore, it seems appropriate to treat this variable as a category rather than a number. However, just suggesting, it would be more specific to use categories like *(High/Normal/Insufficient).*
 
 Other variables also seem to be very subjective, such as *"ComeVegetales"* and *"ConsumoDeAgua"*, because the dataset does not specify if the numbers contained in both variables have a measure unit, therefore seems correct to treat them as a relative consume, but it would be really helpful if it specifies the numbers as weekly frequency, liters, gallons or any other unit.
+
+Now, if we talk about obesity levels, we can put our attention to that variable which seems to be categoric, just to see how many people with different levels of obesity, we're going to plot the data to see the distribution. 
+
+
