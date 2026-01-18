@@ -11,7 +11,7 @@ As mentioned before, we are going to use python programming + AI tools, most spe
 
 ### Data Loading
 Lets load the data set and see how many information we have
-![Data Loading](/assets/module1/resources/Data_loading.png)
+![Data Loading](/module1/assets/Data_head.png)
 
 The data set appears to have 2111 rows and 10 colums size, wich is a good size for a dataset, now let's see what kind of variables we're going to be working with
 ### Variables and types of information
